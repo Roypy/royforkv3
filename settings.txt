@@ -1,0 +1,2 @@
+autoloadsettings = true
+askpermissiononload= false
